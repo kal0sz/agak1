@@ -1,3 +1,5 @@
+package zad1;
+
 public class zad5 {
     public static void main(String[] args) {
         int sciana1 = 3;

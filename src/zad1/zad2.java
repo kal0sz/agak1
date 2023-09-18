@@ -1,3 +1,5 @@
+package zad1;
+
 public class zad2 {
     //11.09.2023
     public static void main(String[] args) {

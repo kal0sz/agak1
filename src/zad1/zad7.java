@@ -1,3 +1,5 @@
+package zad1;
+
 public class zad7 {
     public static void main(String[] args) {
         double procent = 0.62;
